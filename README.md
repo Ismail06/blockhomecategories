@@ -9,7 +9,7 @@ install with PrestaShop Admin area (Admin -> Modules )
 + set maximum child categories to view
 + to display module on different page, simple use the code below:
 ```sh
-{hook h=’DisplayCustomCategories’ mod=’blockhomecategories’}
+{hook h='DisplayCustomCategories' mod='blockhomecategories'}
 ```
 
 ### compability
